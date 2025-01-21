@@ -59,18 +59,6 @@ This project is a blend of computer science concepts and interactive gameplay, h
    - Input the graph structure to compute the MST using Prim's algorithm.
    - Outputs the total weight of the MST.
 
-3. **Sample Interaction:**
-   ```plaintext
-   Enter the number of vertices in the graph: 4
-   Enter the adjacency matrix of the graph:
-   0 10 20 0
-   10 0 30 50
-   20 30 0 60
-   0 50 60 0
-
-   The minimum spanning tree with total 80 weight(s)
-   ```
-
 ## Technologies Used
 
 - **Programming Language:** C++
